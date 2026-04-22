@@ -6,7 +6,7 @@ An AI vs AI cybersecurity competition built by the JMU Madison AI Club Cybersecu
 ## What's Inside
 
 - `BOTS/redteam_agent.py` — autonomous attacker that captures flags from DVWA
-- `BOTS/blueteam_sgent.py` — real time defender that detects and blocks attacks
+- `BOTS/blueteam_agent.py` — real time defender that detects and blocks attacks
 
 ## How It Works
 
